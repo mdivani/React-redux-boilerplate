@@ -1,7 +1,8 @@
-# Git Commands
+boilerplate includes:
 
-git init - Create a new git repo
-git status - View the changes to your project code
-git add - Add files to staging area
-git commit - Creates a new commit with files from staging area
-git log - View recent commits
+1 react v16.0.0
+2. redux
+3. thunk
+4. react-router
+5. webpack config
+6. jest
